@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contents
 
-- VTK
+- [https://hannalyu.github.io/homepage/ThoughtsToVTk]VTK
+
+-[https://hannalyu.github.io/homepage/TechDocs]Tech Docs
 
 ```markdown
 Syntax highlighted code block
