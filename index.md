@@ -5,10 +5,14 @@ I will write the thoughts that I got from my daliy study.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Contents
+-[About Me](https://hannalyu.github.io/homepage/about/aboutMe.html)
 
 -[VTK Book](https://hannalyu.github.io/homepage/vtk/VTK-book.html)
 
 -[Tech Docs](https://hannalyu.github.io/homepage/tech-docs/tech-docs.html)
+
+-[Machine Learning](https://hannalyu.github.io/homepage/Machine-Learning/ML.md.html)
+
 
 
 
