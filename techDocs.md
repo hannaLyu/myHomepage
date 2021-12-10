@@ -1,6 +1,6 @@
-layout: page
-title: "Tech Docs"
-permalink: /TechDocs/
+layout:page
+title:"Tech Docs"
+permalink:/TechDocs/
 
 
 
