@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
 title: Brain Dump
-auther: Xiaohan Lyu
-Email: LyuXiaohan@outlook.com
-description: For fun here.
 
-menu:
-  home: /
-  categories: /categories/
-  tags: /tags/
+description: Email: LyuXiaohan@outlook.com auther: Xiaohan Lyu
+             For fun here.
+
+
