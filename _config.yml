@@ -3,3 +3,8 @@ title: Brain Dump
 auther: Xiaohan Lyu
 Email: LyuXiaohan@outlook.com
 description: For fun here.
+
+menu:
+  home: /
+  categories: /categories/
+  tags: /tags/
