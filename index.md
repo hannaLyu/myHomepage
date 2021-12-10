@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Contents
 
 -[VTK](https://hannalyu.github.io/homepage/ThoughtsToVTk)
--[Tech Docs](https://hannalyu.github.io/homepage/Tech-docs)
+-[Tech Docs](https://hannalyu.github.io/homepage/tech-docs/tech-docs.html)
 
 
 
