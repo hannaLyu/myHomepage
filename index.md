@@ -13,6 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 -[Machine Learning](https://hannalyu.github.io/homepage/Machine-Learning/ML.html)
 
+-[Language Acquisition](https://hannalyu.github.io/homepage/language/language.html)
 
 
 
