@@ -11,7 +11,6 @@ CurrentTimeValue = TimeValues.GetTuple1(CurrentTimePoint)
 
 ## -config reader
 ```markdown
-CurrentTimeValue = TimeValues.GetTuple1(CurrentTimePoint)
 reader.ReadZonesOff()
 reader.SetTimeValue(CurrentTimeValue)
 reader.ReadZonesOn()
@@ -22,6 +21,7 @@ Block = vtk.vtkUnstructuredGrid.SafeDownCast(reader.GetOutput().GetBlock(0))
 
 ### 1.	Find given points in volume
 ```markdown
+points = Block.GetPoints()
 pointTree.BuildLocatorFromPoints(points)
 pointTree.FindClosestNPoints(k,[X,Y,Z],result) #which XYZ is the coordinate of given point
 p = result.GetId(0)    #p-> result of point id 
