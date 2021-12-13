@@ -7,11 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Contents
 -[About Me](https://hannalyu.github.io/homepage/about/aboutMe.html)
 
--[VTK Book](https://hannalyu.github.io/homepage/vtk/VTK-book.html)
+-[VTK Book](https://hannalyu.github.io/homepage/vtk/vtk.html)
 
 -[Tech Docs](https://hannalyu.github.io/homepage/tech-docs/tech-docs.html)
 
 -[Machine Learning](https://hannalyu.github.io/homepage/Machine-Learning/ML.html)
+
 
 
 
