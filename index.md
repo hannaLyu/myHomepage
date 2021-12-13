@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 -[Tech Docs](https://hannalyu.github.io/homepage/tech-docs/tech-docs.html)
 
--[Machine Learning](https://hannalyu.github.io/homepage/Machine-Learning/ML.md.html)
+-[Machine Learning](https://hannalyu.github.io/homepage/Machine-Learning/ML.html)
 
 
 
